@@ -1,0 +1,21 @@
+{
+  "name": "mcp-docent-server",
+  "description": "Docent Server which describe image",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "inspect": "npx fastmcp inspect dist/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "fastmcp": "^1.21.0",
+    "openai": "^4.0.0",
+    "zod": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.19.0",
+    "typescript": "^5.2.2"
+  }
+}
