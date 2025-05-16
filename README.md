@@ -1,4 +1,5 @@
 # MCP Docent Server
+[![smithery badge](https://smithery.ai/badge/@dongprojectteam/mcp-docent-server)](https://smithery.ai/server/@dongprojectteam/mcp-docent-server)
 
 > 이미지를 입력받아 해당 이미지에 대한 해설 텍스트(docent)를 생성하는 MCP 서버입니다.  
 > AI 기반 해설 시스템을 활용하여 다양한 이미지에 대해 자동으로 설명을 생성합니다.
@@ -49,3 +50,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN     
 THE SOFTWARE.
 ```
+
