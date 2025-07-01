@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dongprojectteam-mcp-docent-server-badge.png)](https://mseep.ai/app/dongprojectteam-mcp-docent-server)
+
 # MCP Docent Server
 
 > 이미지를 입력받아 해당 이미지에 대한 해설 텍스트(docent)를 생성하는 MCP 서버입니다.  
